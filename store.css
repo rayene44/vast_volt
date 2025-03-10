@@ -126,6 +126,10 @@ header{
     width: 100%;
     position:fixed;
 }
+    #list1{
+    position: relative;
+    top: 0px;
+}
 body{
     width: 100%;
     height: 2000px;
